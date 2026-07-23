@@ -9,6 +9,9 @@ A production-ready HR analytics platform that predicts employee attrition using 
 
 ---
 
+🔗 Live Demo: https://attrition-iq-eg2atssqm7aiqejrbmzqex.streamlit.app/
+Note: The application may take a few seconds to load initially if the deployment is inactive.
+
 ## ✨ Features
 
 ### 📊 EDA Dashboard
