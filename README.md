@@ -82,8 +82,8 @@ employee_attrition/
 │   ├── models.py             # ML training & evaluation
 │   ├── explainer.py          # SHAP explainability
 │   ├── visualizations.py     # All Plotly charts
-│   ├── hr_assistant.py       # AI HR assistant (Claude)
 │   └── report_generator.py   # Excel/CSV report generation
+│   
 ├── models/                   # Saved model artifacts
 ├── data/                     # Sample datasets
 └── reports/                  # Generated reports
