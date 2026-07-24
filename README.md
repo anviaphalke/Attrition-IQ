@@ -159,7 +159,6 @@ Streamlit UI
   ├── EDA Dashboard
   ├── Model Comparison
   ├── Individual Predictions
-  ├── AI HR Assistant
   └── Excel/CSV Reports
 ```
 
