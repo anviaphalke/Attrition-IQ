@@ -38,12 +38,6 @@ Note: The application may take a few seconds to load initially if the deployment
 - SHAP waterfall chart explaining each prediction
 - Natural language HR recommendation text
 
-### 🤝 AI HR Assistant (Claude)
-- Natural language Q&A about your workforce data
-- "Which department has the highest attrition?"
-- "What salary range is at highest risk?"
-- Context-aware responses grounded in your actual data
-
 ### 📥 Downloadable Reports
 - Multi-sheet Excel: Executive Summary, Department Analysis, Risk Employee List, Model Performance
 - CSV export of high-risk employees
@@ -101,7 +95,6 @@ employee_attrition/
 | Explainability | SHAP |
 | Visualization | Plotly |
 | Class Balancing | imbalanced-learn (SMOTE) |
-| AI Assistant | Anthropic Claude API |
 | Reports | openpyxl (Excel) |
 
 ---
